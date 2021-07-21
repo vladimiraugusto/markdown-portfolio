@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Here is one of my favorite things
+- Long walks with my dog, Mr. Spock
+- Karate Do
+- Data Science
+- Open Source
