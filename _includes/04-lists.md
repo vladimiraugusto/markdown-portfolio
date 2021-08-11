@@ -1,5 +1,5 @@
-# Here is one of my favorite things
-- Long walks with my dog, Mr. Spock
+# My favorite things
 - Karate Do
-- Data Science
-- Open Source
+- Chess
+- Guitar
+- Linux
