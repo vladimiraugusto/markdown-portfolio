@@ -1,10 +1,11 @@
 # Skills
 
-Below are my **technical skills**
+Next, I mention my **technical skills**
 
 ## Data Science
 
-- _python and R_.
+- _With **Python** I am able to extract and analyze information from raw files, Web Scrapping, Machine Learning, etc, and integrate it with SQL and noSQL databases._
+- _R_
 - _mySQL, MS SQL_
 - _MongoDB_
 
@@ -18,4 +19,3 @@ Below are my **technical skills**
 
 - _GitHub_
 - _Git_
-
