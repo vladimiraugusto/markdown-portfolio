@@ -1,21 +1,55 @@
-# Skills
+# Skills (as of August 2021)
 
-Next, I mention my **technical skills**
+## Programming languages
+
+- Python.
+- R.
 
 ## Data Science
 
-- _With **Python** I am able to extract and analyze information from raw files, Web Scrapping, Machine Learning, etc, and integrate it with SQL and noSQL databases._
-- _R_
-- _mySQL, MS SQL_
-- _MongoDB_
+### ETL
+
+- mySQL (Workbench), MS SQL, SQLite, SQL Server Data Tools for Visual Studio.
+- WebScrapping with python (BeautifulSoup and Selenium).
+
+### Analisys and visualization
+
+- Python (pandas, numpy, scipy, matplotlib, seaborn).
+- R (ggplot).
+- Gretl.
+- PowerBI.
+- Tableau.
+- Spreadsheets like calc and excel.
+
+### Machine Learning
+
+- Python (skitlearn)
+- R.
+
+### Big Data
+
+- HBase.
+- Cassandra.
+- MongoDB.
+- DataBricks.
+- Spark.
+
+### Machine Learning
+
+- skitlearn
 
 ## Web Development
 
-- _HTML5 and CSS3_
-- _JavaScript_
-- _NodeJS_
+- HTML5.
+- CSS3.
 
 ## Colaboration
 
-- _GitHub_
-- _Git_
+- GitHub.
+- Git.
+
+## Operating Systems.
+
+- Debian.
+- OpenSuse.
+- centOS.
